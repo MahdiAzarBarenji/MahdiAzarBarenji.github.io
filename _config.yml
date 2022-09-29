@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Arash Jalil-Khabbazi / MASc Student"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Arash Jalil-Khabbazi"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
