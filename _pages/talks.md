@@ -2,7 +2,7 @@
 title: "Green Hydrogen Supply to Urban Infrastructure and Buildings through Blending into the Existing Grid"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-06-05-talk-1
+permalink: /talks/
 venue: "University of Alberta, Faculty of Engineering"
 date: 2022-06-05
 location: "Edmonton, Alberta"
