@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+### Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada
+
+A. Jalil Khabbazi and R. Li, "Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada", (To be submitted).
+
+---
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +18,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
