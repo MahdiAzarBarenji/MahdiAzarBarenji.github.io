@@ -14,12 +14,12 @@ redirect_from:
 Vitae also available to download [here](../files/CV_Arash_Jalil_Khabbazi.pdf).
 {% endcomment %} 
 
-<object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../files/jcv.pdf">
-        <p>This browser does not support PDFs. Please <a href="../files/jcv.pdf">download the PDF</a> to view.</p>
+<object data="../files/CV_Arash_Jalil_Khabbazi.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/CV_Arash_Jalil_Khabbazi.pdf">
+        <p>This browser does not support PDFs. Please <a href="../files/CV_Arash_Jalil_Khabbazi.pdf">download the PDF</a> to view.</p>
     </embed>
 </object>
 
 {% comment %}
-<iframe src="https://drive.google.com/file/d/1haaQPgAMkOqouNhVPiB8EHmol-okyQOy/preview" width="100%" height = "800"></iframe>
+<iframe src="https://drive.google.com/file/d/1wzveJ-vVK8-Z4TMxJviZhaYRYX5ahaLO/preview" width="100%" height = "800"></iframe>
 {% endcomment %}
