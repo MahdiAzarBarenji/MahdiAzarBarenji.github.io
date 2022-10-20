@@ -7,7 +7,7 @@ author_profile: true
 
 ### Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada
 
-A. Jalil Khabbazi and R. Li, "Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada", (To be submitted).
+A. Jalil Khabbazi and R. Li, "Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada", (In preparation to submit).
 
 ---
 <!-- {% if author.googlescholar %}
