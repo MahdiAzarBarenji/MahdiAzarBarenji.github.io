@@ -12,4 +12,4 @@ author_profile: true
 - Fully funded graduate student in Mechanical Engineering, 26,000 CAD (UBC, 2021)
 - Merit-based admission to M.Sc. program from distinguished universities of Iran, including, Sharif University of Technology, University of Tehran,
 University of Tabriz (BSc, 2020)
-- 2^nd^ place among 124 B.Sc. students of Mechanical Engineering, class 2016 entry (BSc, 2020)
+- 2 ^nd^ place among 124 B.Sc. students of Mechanical Engineering, class 2016 entry (BSc, 2020)
