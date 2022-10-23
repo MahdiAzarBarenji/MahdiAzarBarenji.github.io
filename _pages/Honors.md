@@ -10,6 +10,6 @@ author_profile: true
 - Graduate Research Scholarship, 3,000 CAD (UBC, 2022)
 - Graduate Dean’s Entrance Scholarship, 5,000 CAD (UBC, 2021)
 - Fully funded graduate student in Mechanical Engineering, 26,000 CAD (UBC, 2021)
-- Merit-based admission to M.Sc. program from distinguished universities of Iran, including, Sharif University of Technology, University of Tehran,
+- Merit-based admission to M.Sc. program from distinguished universities of Iran, including, Sharif University of Technology, University of Tehran, and
 University of Tabriz (BSc, 2020)
 - 2<sup>nd</sup> place among 124 B.Sc. students of Mechanical Engineering, class 2016 entry (BSc, 2020)
