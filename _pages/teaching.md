@@ -5,17 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada
+### MASc
+- APSC172 | Engineering Analysis I, Role: Tutorial instructor, (Fall'21, Fall'22)
 
-A. Jalil Khabbazi and R. Li, "Numerical and analytical study of green hydrogen integration into the existing grids for net-zero GHG emissions and for heating homes: Case study in BC, Canada", (In preparation to submit).
+- ENGR385 | Heat Transfer Applications, Role: Lab instructor, (Winter'22, Winter'23)
 
----
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- ENGR310 | Fluid Mechanics II, Role: Lab instructor, (Fall'21)
 
-{% include base_path %}
+### BSc
+- Thermodynamics II, Role: Course support, (Winter'20)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+- Computer Programming (C/C++), Role: Head tutorial instructor, (Fall'18, Winter'19, Fall'19)
