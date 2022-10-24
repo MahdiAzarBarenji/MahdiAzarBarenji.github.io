@@ -6,13 +6,13 @@ main:
    - title: "Talks"
      url: /talks/
      
-   - title: "Publications"
+   - title: "Publication"
      url: /publications/
 
    - title: "Teaching"
      url: /teaching/    
     
-   - title: "Honors & Awards"
+   - title: "Honors/Awards"
      url: /honors/
         
   # - title: "Blog Posts"
