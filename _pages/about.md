@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for standing by! I am a Master’s student in Mechanical Engineering at the School of Engineering, The University of British Columbia, under the supervision of Professor [Sunny Li](https://engineering.ok.ubc.ca/about/contact/sunny-ri-li/). My research thesis focuses on the numerical and analytical study of green hydrogen integration into the existing grids for reducing GHG emissions in British Columbia.
+Thanks for standing by! I am a Master’s student in Mechanical Engineering at the School of Engineering, The University of British Columbia, under the supervision of Professor [Sunny Li](https://engineering.ok.ubc.ca/about/contact/sunny-ri-li/). My research thesis focuses on the numerical and analytical study of green hydrogen mixing into in the existing grids in British Columbia for reducing GHG emissions.
 
 My primary area of expertise includes but is not limited to analyzing thermal-fluid and energy systems using high-performance computing (HPC) techniques. I am also broadening my knowledge in machine learning (ML) and data science for their wide application in today's engineering problems.
 
