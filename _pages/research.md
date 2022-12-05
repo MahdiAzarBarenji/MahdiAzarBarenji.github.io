@@ -13,6 +13,10 @@ The most cost-effective, efficient solution during the current transition period
 As such, the integration of generated green hydrogen from renewable sources into the existing grids from computational fluid dynamics (CFD) and thermodynamics perspectives is studied in this research. A multi-species approach using ideal and real gas equations of state (EoS), as well as mixing/combining rules for the species, is carried out. For the sake of High-Performance Computation (HPC), UBC Advanced Research Computing (UBC ARC) and ComputeCanada platforms are used. ANSYS Fluent, Fluent Meshing, and Tecplot are used for the numerical simulation, pre-processing, and post-processing stage. The multi-species codes are developed and compiled separately into the ANSYS Fluent via C/C++ ([sample](https://github.com/arashjkh/Directed-Studies-UBC-course)). The impacts of advection, diffusion, and stratification between species are investigated in the analytical part.
 
 <p align='center'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FZDPt9dYYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align='center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLNrwxAYXDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
