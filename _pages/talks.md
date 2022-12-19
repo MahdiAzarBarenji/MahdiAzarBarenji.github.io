@@ -8,4 +8,4 @@ Green Hydrogen Supply to Urban Infrastructure and Buildings through Blending int
 
 * Best Presentation of the symposium.
 
-<img title="Certificate" alt="Alt text" src="../files/BestPresentation.jpg" width="75%" height="75%">
+<img title="Certificate" alt="Alt text" src="../files/BestPresentation.jpg" width="75%" height="75%"/>
