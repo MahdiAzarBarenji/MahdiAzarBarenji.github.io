@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+---
 ### MASc
 - **Engineering Analysis I (APSC172)**, Role: Tutorial instructor, (Fall'21, Fall'22)
 
