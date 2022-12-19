@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ArashJKh"
 title_separator          : "-"
-name                     : &name "Arash Jalil-Khabbazi"
+name                     : &name "Arash J. Khabbazi"
 description              : &description "personal description"
 url                      : https://arashjkh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arash Jalil Khabbazi"
+  name             : "Arash J. Khabbazi"
   avatar           : "IMG_3545-modified.jpg"
   bio              : "Master's student in ME @ UBC"
   location         : "Canada"
@@ -97,7 +97,7 @@ author:
   github           : "arashjkh"
   google_plus      :
   keybase          :
-  instagram        : jk_arash
+  instagram        : #jk_arash
   impactstory      : 
   lastfm           :
   linkedin         : arashjkh
