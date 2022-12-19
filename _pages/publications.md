@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+___
 A. J. Khabbazi and R. Li, “Green hydrogen mixing and stratification following its introduction into the existing grids for reducing GHG emissions: CFD and analytical study through different equations of state,” To be submitted to International Journal of Hydrogen Energy, 2023
 
 ___
