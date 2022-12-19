@@ -24,6 +24,8 @@ As such, the integration of generated green hydrogen from renewable sources into
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mLNrwxAYXDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+---
+
 ## Bachelor's Thesis
 Comparing the efficiency of Kalina cycle system 11 (KCS11) and Kalina cycle system 111 (KCS111) based on different decision variables. The results were compared with some benchmarks in the literature. From a thermodynamics perspective, and apart from KCS111's complex configuration and high costs, it is more efficient than the base cycle, KCS11 <a href="https://github.com/arashjkh/Thermodynamic-and-exergy-analysis-of-KCS11-and-two-other-types-with-three-pressure-levels-BSc-Thesis" target="_blank">(+more info and codes)</a>.
 
