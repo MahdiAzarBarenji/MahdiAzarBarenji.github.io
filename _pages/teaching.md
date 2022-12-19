@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### MASc
+## MASc
 - **Engineering Analysis I (APSC172)**, Role: Tutorial instructor, (Fall'21, Fall'22)
 
 - **Heat Transfer Applications (ENGR385)**, Role: Lab instructor, (Winter'22, Winter'23)
