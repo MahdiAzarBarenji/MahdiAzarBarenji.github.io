@@ -14,6 +14,9 @@ main:
     
    - title: "Honors/Awards"
      url: /honors/
+     
+   - title: "Certificates"
+     url: /certificates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
