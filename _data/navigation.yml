@@ -6,7 +6,7 @@ main:
    - title: "Talks"
      url: /talks/
      
-   - title: "Publication"
+   - title: "Publications"
      url: /publications/
 
    - title: "Teaching"
@@ -15,8 +15,8 @@ main:
    - title: "Honors/Awards"
      url: /honors/
      
-   - title: "Certificates"
-     url: /certificates/
+  # - title: "Certificates"
+  #  url: /certificates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
