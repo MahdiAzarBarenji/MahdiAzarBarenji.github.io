@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ArashJKh"
+title                    : "Arash J Kh"
 title_separator          : "-"
 name                     : &name "Arash J. Khabbazi"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Arash J. Khabbazi"
   avatar           : "IMG_3545-modified.jpg"
-  bio              : "Master's student in ME @ UBC"
-  location         : "Canada"
+  bio              : "Master's Student in Mechanical Engineering"
+  location         : "UBC, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
