@@ -13,8 +13,8 @@ I am a Master’s student in Mechanical Engineering at The University of British
 
 This experience has exposed me to a broad range of topics, from fundamental fluid dynamics and thermal sciences to high-performance computation (HPC). My primary area of expertise includes but is not limited to studying thermal-fluid systems via high-performance computing (HPC) techniques as well as system-scale analysis of renewable energy systems. I am also broadening my knowledge in machine learning (ML) and data science for their wide application in today's engineering problems.
 
-I received my Bachelor’s Degree in Mechanical Engineering from the Mechanical Engineering Department, University of Tabriz, in August 2020. My thesis, under the supervision of Professor <a href="https://scholar.google.ca/citations?user=3fiuBk0AAAAJ&hl=en&oi=sra" target="_blank">SMS Mahmoudi</a>, was upon the thermodynamic and exergy study of Kalina cycle system 11 (KCS11) and a new type with three pressure levels.
+I received my Bachelor’s Degree in Mechanical Engineering from the Mechanical Engineering Department, University of Tabriz, in August 2020. My thesis, under the supervision of Professor <a href="https://scholar.google.ca/citations?user=3fiuBk0AAAAJ&hl=en&oi=sra" target="_blank" style="color:#0000FF;">SMS Mahmoudi</a>, was upon the thermodynamic and exergy study of Kalina cycle system 11 (KCS11) and a new type with three pressure levels.
 
-Here is my <b><a href="https://drive.google.com/file/d/15KDkA2jfwnZ5U6zae2aigpx8WAEac0Fz/preview" target="_blank">CV</a></b>.
+Here is my <b><a href="https://drive.google.com/file/d/15KDkA2jfwnZ5U6zae2aigpx8WAEac0Fz/preview" target="_blank" style="color:#0000FF;">CV</a></b>.
 
 ---
