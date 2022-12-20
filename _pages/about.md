@@ -1,13 +1,12 @@
 ---
 permalink: /
-excerpt: "About me"
+title: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About me
 
 I am a Master’s student in Mechanical Engineering at The University of British Columbia (UBC), under the supervision of Professor <a href="https://engineering.ok.ubc.ca/about/contact/sunny-ri-li/" target="_blank" style="color:#0000FF;">Sunny Ri Li</a>. My current research is aligned with one of Canada’s primary climate plans. Even on a minor scale, it feels pleasing when one’s contributions could result in a cleaner planet. I am specifically focusing on blending 5-20%mol renewable hydrogen into the existing grids to reduce emissions by 40-45% from 2005 levels by 2030.
 
