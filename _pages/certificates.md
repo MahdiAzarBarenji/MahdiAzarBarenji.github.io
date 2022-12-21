@@ -8,7 +8,7 @@ author_profile: true
 <b>Machine Learning</b>, <i>Deep learning.AI</i>, in 33 hours
 - <a href="https://coursera.org/share/96dadeac993c7f3c71e8008c7a91542c" target="_blank" style="color:#0000FF; text-decoration:none;">Certificate</a>
 
-<b>Applied Plotting</b>, Charting & Data Representation in Python, <i>University of Michigan</i>, in 21 hours
+<b>Applied Plotting, Charting & Data Representation in Python</b>, <i>University of Michigan</i>, in 21 hours
 - <a href="https://coursera.org/share/58efd8277d8a1d05169ff44be8cacbff" target="_blank" style="color:#0000FF; text-decoration:none;">Certificate</a>
 
 <b>Introduction to Data Science in Python</b>, <i>University of Michigan</i>, in 31 hours
