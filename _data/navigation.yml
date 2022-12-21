@@ -1,8 +1,14 @@
 # main links links
 main:
+   - title: "CV"
+     url: /files/CV_Arash_Jalil_Khabbazi.pdf
+     
    - title: "Research"
      url: /research/    
 
+   - title: "Honors/Awards"
+     url: /honors/
+     
    - title: "Talks"
      url: /talks/
      
@@ -10,19 +16,13 @@ main:
      url: /publications/
 
    - title: "Teaching"
-     url: /teaching/    
-    
-   - title: "Honors/Awards"
-     url: /honors/
+     url: /teaching/
      
-  # - title: "Certificates"
-  #  url: /certificates/
+   - title: "Certificates"
+    url: /certificates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-   - title: "CV"
-     url: /files/CV_Arash_Jalil_Khabbazi.pdf
     
   # - title: "Guide"
   #   url: /markdown/
