@@ -1,5 +1,6 @@
 # main links links
 main:
+
    - title: "CV"
      url: /files/CV_Arash_Jalil_Khabbazi.pdf
      
@@ -19,7 +20,7 @@ main:
      url: /teaching/
      
    - title: "Certificates"
-    url: /certificates/
+     url: /certificates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
