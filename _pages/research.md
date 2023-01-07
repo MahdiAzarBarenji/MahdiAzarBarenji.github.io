@@ -11,14 +11,26 @@ Moving toward a prosperous economy and cleaner climate demands building on exist
 
 The most cost-effective, efficient solution during the current transition period toward a green hydrogen ecomomy is using the existing gas infrastructure, in which the two gaseous substances are transported as one mixture called H2NG. Due to the different thermophysical properties of hydrogen and natural gas (for simplification, it will be denoted as methane), the mixture changes significantly in its transmission conditions. These changes also vary with the high-pressure, intermediate-pressure, and low-pressure networks. An in-depth understanding of the process feasibility, associated hazards and risks, and safety measures is crucial. That is to say, the high contents of hydrogen could give rise to multiple issues including but not limited to material durability, grid integrity, safety, leakage, and the necessity of modifying or altering pipelines, storage tanks, compressors, or even end-user devices.
 
-As such, the integration of generated green hydrogen from renewable sources into the existing grids from computational fluid dynamics (CFD) and thermodynamics perspectives is studied in this research. A multi-species approach using ideal and real gas equations of state (EoS), as well as mixing/combining rules for the species, is carried out. For the sake of High-Performance Computation (HPC), UBC Advanced Research Computing (UBC ARC) and ComputeCanada platforms are used. ANSYS Fluent, Fluent Meshing, and Tecplot are used for the numerical simulation, pre-processing, and post-processing stage. The multi-species codes are developed and compiled separately into the ANSYS Fluent via C/C++ (<a href="https://github.com/arashjkh/Directed-Studies-UBC-course" target="_blank" style="color:#0000FF; text-decoration:none;">sample</a>). The impacts of advection, diffusion, and stratification between species are investigated in the analytical part.
+Given this, renewable hydrogen delivery within the existing grids to reduce GHG emissions is carried out in this research. The main focus of this study is on the mixing of hydrogen and methane gases in the existing pipelines. Due to buoyancy effects and a significant density difference of eight times compared to methane, hydrogen tends to get confined near the top wall or the bottom upon its injection. The confinement zone, top or bottom, depends on how the hydrogen gets introduced to the main pipe. The first part of this study tackles the issue of how we can prevent stratified hydrogen in the pipeline to stop steel embrittlement and potential leakage. This entails immediately having a uniform mixture of two fluids in the line. Accordingly, a multi-species numerical approach using ideal and real gas equations of state (EoS) such Soave-Redlich-Kwong (SRK) and mixing/combining rules for the species is conducted. For the sake of High-Performance Computation (HPC), UBC Advanced Research Computing (UBC ARC) and ComputeCanada platforms are used. ANSYS Fluent, Fluent Meshing, and Tecplot are used for the numerical simulation, pre-processing, and post-processing stages. The multi-species codes are developed and compiled separately into the ANSYS Fluent via C/C++ (<a href="https://github.com/arashjkh/Directed-Studies-UBC-course" target="_blank" style="color:#0000FF; text-decoration:none;">sample</a>). The impacts of using static mixers and injection from different angles are studied. Furthermore, the model is expanded to high-pressure cases, which entails using real gas EoS. The diffusion, advection, and buoyancy effects on the possible stratification of gases are also studied. Below, the difference between the upper-side injection and the bottom-side injection can be observed. It is shown that the bottom-side injection results in a lower mixing uniformity length.
+
+Top-side injection:
 
 <p align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FZDPt9dYYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/JXl90S2QzLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p align='center'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5f-mjwgE9zI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/B40OWxpehKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+Bottom-side injection:
+
+<p align='center'>
+<iframe width="560" height="315" src="https://youtu.be/f77y9xpKKzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align='center'>
+<iframe width="560" height="315" src="https://youtu.be/VjRtbvW7s-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
