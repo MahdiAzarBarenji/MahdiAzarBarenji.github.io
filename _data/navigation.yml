@@ -4,14 +4,14 @@ main:
    - title: "CV"
      url: /files/CV_Arash_Jalil_Khabbazi.pdf
      
-   - title: "Research"
-     url: /research/    
+   #- title: "Research"
+   #  url: /research/    
 
-   - title: "Honors/Awards"
-     url: /honors/
+   #- title: "Honors/Awards"
+   #  url: /honors/
      
-   - title: "Talks"
-     url: /talks/
+   #- title: "Talks"
+   #  url: /talks/
      
    #- title: "Publications"
     # url: /publications/
@@ -19,8 +19,8 @@ main:
    #- title: "Teaching"
     # url: /teaching/
      
-   - title: "Certificates"
-     url: /certificates/
+   #- title: "Certificates"
+   #  url: /certificates/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
