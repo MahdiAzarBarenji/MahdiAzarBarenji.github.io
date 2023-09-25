@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Thanks for standing by!
-
-My name is Arash, a Master’s student in Mechanical Engineering at The University of British Columbia (UBC), under the supervision of Professor <a href="https://engineering.ok.ubc.ca/about/contact/sunny-ri-li/" target="_blank" style="color:#0000FF; text-decoration:none;">Sunny Ri Li</a>. My research focuses on supporting Canada’s important initiative, the “Net-Zero Emissions by 2050” plan. This work has been recognized through notable achievements, including receiving the Best Presentation Award at CSME 2022 and the Best Paper Award at CSME 2023. This approach aims to significantly reduce greenhouse gas (GHG) emissions, targeting a 40-45% decrease from 2005 levels by the year 2030.
+Thanks for stopping by! I'm Arash Jalil Khabbazi, a Master's Student in Mechanical Engineering at the University of British Columbia (UBC), under the supervision of Professor <a href="https://engineering.ok.ubc.ca/about/contact/sunny-ri-li/" target="_blank" style="color:#0000FF; text-decoration:none;">Sunny Ri Li</a>. My research focuses on supporting Canada’s important initiative, the “Net-Zero Emissions by 2050” plan. This work has been recognized through notable achievements, including receiving the Best Presentation Award at CSME 2022 and the Best Paper Award at CSME 2023. This approach aims to significantly reduce greenhouse gas (GHG) emissions, targeting a 40-45% decrease from 2005 levels by the year 2030.
 
 Through this experience, I have gained exposure to a wide range of subjects, encompassing fundamental fluid dynamics, thermal sciences, and high-performance computation (HPC). My expertise lies in the study of thermal-fluid systems using supercomputing techniques. Additionally, recognizing their significant relevance in today's engineering society and industry, I have been actively expanding my knowledge in machine learning (ML) and data science alongside my primary research.
 
