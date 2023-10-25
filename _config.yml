@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arash J. Khabbazi"
+  name             : "Arash Jalil Khabbazi"
   avatar           : "IMG_2951.jpg"
-  bio              : "Master's Student in ME"
-  location         : "Canada"
-  employer         : "University of British Columbia (UBC)"
+  bio              : "Ph.D. in Mechanical Engineering"
+  location         : "United States"
+  employer         : "Purdue University"
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AP6z3OZiab4BUHBahVV7kKVwfZKsUWAzfdPzb2cL93pVa1PI1ZkoD-qtb2rKsBW022rgb6ywzp1hvQMcRKiW3g&user=yIX3RKsAAAAJ
   email            : arashjkh@gmail.com
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"arashjkh"
+  github           : "arashjkh"
   google_plus      :
   keybase          :
   instagram        : #jk_arash
