@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arash JKh"
+title                    : "Arash J. Khabbazi"
 title_separator          : "-"
 name                     : &name "Arash J. Khabbazi"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arash Jalil Khabbazi"
+  name             : "Arash J. Khabbazi"
   avatar           : "IMG_2951.jpg"
   bio              : "Ph.D. in Mechanical Engineering"
   location         : "United States"
