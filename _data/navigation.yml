@@ -1,20 +1,20 @@
 # main links links
 main:
-
+     
+   - title: "Publications"
+     url: /publications/
+     
    - title: "CV"
      url: /files/CV_Arash_Jalil_Khabbazi.pdf
      
    #- title: "Research"
    #  url: /research/    
 
-   #- title: "Honors/Awards"
-   #  url: /honors/
+   - title: "Honors/Awards"
+     url: /honors/
      
    #- title: "Talks"
    #  url: /talks/
-     
-   #- title: "Publications"
-    # url: /publications/
 
    #- title: "Teaching"
     # url: /teaching/
