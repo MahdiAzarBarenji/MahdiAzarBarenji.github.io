@@ -18,7 +18,7 @@ redirect_from:
   <img src="../images/IMG_2951.jpg" alt="Alt Text" width="400" height="400">
 </div>
 
-
+<br>
 
 Thanks for stopping by! I'm a PhD Student in the Mechanical Engineering Department and <a href="https://engineering.purdue.edu/Herrick" target="_blank" style="color: black; text-decoration: underline;">Herrick Laboratories</a> at <a href="https://www.purdue.edu/" target="_blank" style="color: black; text-decoration: underline;">Purdue University</a>, working under the guidance of Prof. <a href="https://kevinjkircher.com/" target="_blank" style="color: black; text-decoration: underline;">Kevin Kircher</a>. My research centers on developing machine learning, optimization, and control algorithms for heating and cooling systems in commercial buildings.
 
