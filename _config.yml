@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Arash J. Khabbazi"
 title_separator          : "-"
-name                     : &name "Arash Jalil Khabbazi"
+name                     : &name "Mahdi Azar Barenji"
 description              : &description "personal description"
 url                      : https://arashjkh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
