@@ -32,4 +32,4 @@ My academic journey took shape during my bachelor's, where I honed research skil
 
 Outside the academic realm, I find joy in playing snooker and engaging in football matches, both as a spectator and a player. Philosophy is another realm that captivates me, and I'm always overjoyed to dive into new books on the subject.
 
-Here is my <b><a href="https://arashjkh.github.io/files/CV_Arash_Jalil_Khabbazi.pdf" target="_blank" style="color: black; text-decoration:none;">CV</a></b>.
+Here is my <b><a href="https://mahdiazarbarenji.github.io/files/MAB_CV.pdf" target="_blank" style="color: black; text-decoration:none;">CV</a></b>.
