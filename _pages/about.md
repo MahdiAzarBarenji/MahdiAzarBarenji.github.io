@@ -21,6 +21,7 @@ redirect_from:
 <br>
 Greetings!
 
+
 I'm Mahdi, a passionate Ph.D. student in Mechanical Engineering at the <a href="https://twin-cities.umn.edu/" target="_blank" style="color: black; text-decoration: underline;">University of Minnesota</a> in the USA, specializing in computational mechanics. My research delves into its applications across diverse fields, including Biomedical Engineering, Transport Phenomena, and Multiphase flow.
 
 I earned my Master's degree in Mechanical Engineering from the University of Tehran, Iran, where I explored various facets of thermofluids. From green technology and applying machine learning to micro-nano fluid mechanics, my research spanned a wide spectrum. The focal point of my investigations has been the electrochemical modeling of Battery packs and the cooling technology of electric vehicles, especially under fast charge conditions, utilizing COMSOL—a pioneering approach in its field.
