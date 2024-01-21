@@ -15,7 +15,7 @@ redirect_from:
 </style>
 
 <div style="text-align: center;">
-  <img src="../images/IMG_2951.jpg" alt="Alt Text" width="400" height="400">
+  <img src="../images/UMN.jpg" alt="Alt Text" width="400" height="400">
 </div>
 
 <br>
